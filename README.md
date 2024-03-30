@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=zondaxxx&theme=gotham)]
+![GitHub Streak](https://streak-stats.demolab.com?user=zondaxxx&theme=gotham)
