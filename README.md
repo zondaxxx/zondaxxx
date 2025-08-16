@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=zondaxxx&fontAlign=50&fontAlignY=40&fontSize=40&desc=Async%20Python%20Backend%20%26%20Telegram%20Bots&descSize=14&descAlignY=70" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=160&amp;section=header&amp;text=zondaxxx&amp;fontAlign=50&amp;fontAlignY=40&amp;fontSize=40&amp;desc=Async%20Python%20Backend%20%E2%80%A2%20Telegram%20Bots&amp;descSize=14&amp;descAlignY=70" alt="banner"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Async+Python;Telegram+Bots+(aiogram);FastAPI+Backends;Security%E2%80%91first;Clean+Architecture" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Async+Python;Telegram+Bots+(aiogram);FastAPI+Backends;Security%E2%80%91first;Clean+Architecture" alt="typing"/>
 </p>
 
 # 💫 About Me:
- 👋 Привет, я zondaxxx<br><br>Делаю Telegram-ботов и backend-сервисы на асинхронном Python с упором на стабильность, безопасность и чистую архитектуру.<br><br>- 🧰 Стек: Python (asyncio), aiogram, AIOHTTP/FastAPI, PostgreSQL (asyncpg), Redis, APScheduler<br>- 🛡 Безопасность: single‑chat режим для админки, капча/антиспам, строгие проверки прав<br>- ⚙️ Технологии проекта: middleware‑архитектура, кэширование в Redis, UTC‑нормализация дат и безопасная сериализация<br>- 📈 Аналитика: версионированный API (v2/v3) для метрик активности (серии, топы, диапазоны)<br>- 🧪 Подход: типизация (mypy), линтеры, внимательное отношение к edge‑case’ам и производительности
+ 👋 Привет, я zpndaxxx<br><br>Делаю Telegram-ботов и backend-сервисы на асинхронном Python с упором на стабильность, безопасность и чистую архитектуру.<br><br>- 🧰 Стек: Python (asyncio), aiogram, AIOHTTP/FastAPI, PostgreSQL (asyncpg), Redis, APScheduler<br>- 🛡 Безопасность: single‑chat режим для админки, капча/антиспам, строгие проверки прав<br>- ⚙️ Технологии проекта: middleware‑архитектура, кэширование в Redis, UTC‑нормализация дат и безопасная сериализация<br>- 📈 Аналитика: версионированный API (v2/v3) для метрик активности (серии, топы, диапазоны)<br>- 🧪 Подход: типизация (mypy), линтеры, внимательное отношение к edge‑case’ам и производительности
  
  
  ## 🌐 Socials:
  <p align="center">
-  <a href="mailto:zondaxxx1337@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
-  <a href="https://t.me/nyanzondaxxx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/></a>
+  <a href="mailto:zondaxxx1337@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white&amp;style=for-the-badge" alt="Email"/></a>
+  <a href="https://t.me/nyanzondaxxx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&amp;logoColor=white&amp;style=for-the-badge" alt="Telegram"/></a>
  </p>
 
  ## 🔧 Core Stack
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,postgres,ts,react,nodejs,bash,git,aws,azure&perline=11" alt="Core Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,postgres,ts,react,nodejs,bash,git,aws,azure&amp;perline=11" alt="Core Stack"/>
  </p>
 
  # 💻 Tech Stack:
@@ -61,25 +61,25 @@
 
   ## 📈 Activity Graph
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zondaxxx&theme=tokyo-night&radius=8" alt="activity-graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zondaxxx&amp;theme=tokyo-night&amp;radius=8" alt="activity-graph"/>
   </p>
 
   # 📊 GitHub Stats:
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zondaxxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" height="180"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=zondaxxx&theme=tokyonight&hide_border=true&background=00000000" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=zondaxxx&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;include_all_commits=true&amp;count_private=true" height="180"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=zondaxxx&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000" height="180"/>
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zondaxxx&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zondaxxx&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" height="180"/>
   </p>
 
   ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=zondaxxx&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=zondaxxx&amp;theme=tokyonight&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4)
   
   ### ✍️ Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zondaxxx&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zondaxxx&amp;icon=0&amp;color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
