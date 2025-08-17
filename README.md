@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=160&amp;section=header&amp;text=zondaxxx&amp;fontAlign=50&amp;fontAlignY=40&amp;fontSize=40&amp;desc=Async%20Python%20Backend%20%E2%80%A2%20Telegram%20Bots&amp;descSize=14&amp;descAlignY=70" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=160&amp;section=header&amp;text=Zondaxxx&amp;fontAlign=50&amp;fontAlignY=40&amp;fontSize=40&amp;desc=Async%20Python%20Backend%20%E2%80%A2%20Telegram%20Bots&amp;descSize=14&amp;descAlignY=70" alt="banner"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Async+Python;Telegram+Bots+(aiogram);FastAPI+Backends;Security%E2%80%91first;Clean+Architecture" alt="typing"/>
