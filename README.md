@@ -8,13 +8,22 @@
 
 ## 👨‍💻 About Me
 
-**Full-Stack Developer** with expertise in modern web technologies, backend services, and cloud deployment. I build scalable applications from frontend to infrastructure.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🎯 **Current Focus**
-- 🔥 **Frontend**: TypeScript, React, Next.js, modern UI/UX
-- ⚡ **Backend**: Python (FastAPI, Django), Java (Spring Boot)
-- 🤖 **Telegram Bots**: Advanced bot development with aiogram
-- ☁️ **DevOps**: AWS/Azure deployment, CI/CD, containerization
+**Full-Stack Developer** passionate about creating innovative solutions that make a difference. I love turning complex problems into simple, beautiful, and intuitive solutions.
+
+### 🎯 **What Drives Me**
+- 🔥 **Frontend Magic**: Crafting pixel-perfect, responsive UIs with TypeScript & React
+- ⚡ **Backend Power**: Building robust, scalable APIs with Python & Java
+- 🤖 **Bot Innovation**: Creating intelligent Telegram bots that automate workflows  
+- ☁️ **Cloud Mastery**: Deploying and scaling applications on AWS/Azure
+- 🚀 **Continuous Learning**: Always exploring new technologies and best practices
+
+### 📈 **Current Goals**
+- Building microservices architecture
+- Exploring AI/ML integration in web apps
+- Contributing to open-source projects
+- Mastering cloud-native development
 
 ---
 
