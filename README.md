@@ -131,11 +131,9 @@
 ---
 
 <div align="center">
-  
-[![Profile Views](https://visitcount.itsvg.in/api?id=zondaxxx&label=Profile%20Views&color=0e75b6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer&animation=fadeIn" alt="Footer"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&animation=fadeIn" alt="Footer"/>
+  <h3>💻 Thanks for visiting! Let's build something amazing together! 🚀</h3>
 </div>
