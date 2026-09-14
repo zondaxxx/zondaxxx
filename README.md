@@ -1,14 +1,6 @@
 <div align="center">
 
-<br/>
-
-# zondaxxx
-
-full-stack · mobile · networks
-<br/>
-BMSTU, IU5 · Moscow
-
-<br/>
+<img src="banner.svg" alt="zondaxxx" width="100%"/>
 
 </div>
 
