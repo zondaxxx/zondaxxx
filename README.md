@@ -2,9 +2,7 @@
 
 <br/>
 
-# Lev
-
-**`@zondaxxx`**
+# zondaxxx
 
 full-stack · mobile · networks
 <br/>
