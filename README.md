@@ -39,7 +39,7 @@ the internet work the way it should, on the devices I carry.
 
 <div align="center">
 
-[zondaxxx.github.io](https://https://zondaxxx.github.io/)
+[zondaxxx.github.io](https://zondaxxx.github.io/)
 
 <br/>
 
