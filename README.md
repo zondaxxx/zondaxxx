@@ -39,7 +39,7 @@ the internet work the way it should, on the devices I carry.
 
 <div align="center">
 
-[guns.lol/zondaxxx](https://guns.lol/zondaxxx)
+[zondaxxx.github.io](https://https://zondaxxx.github.io/)
 
 <br/>
 
