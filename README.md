@@ -4,12 +4,7 @@
 
 </div>
 
-<br/>
 
-I build things I actually use every day — mostly the kind that make
-the internet work the way it should, on the devices I carry.
-
-<br/>
 
 ### selected
 
