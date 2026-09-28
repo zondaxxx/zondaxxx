@@ -28,7 +28,7 @@
 
 ### now
 
-→ Flomsi `0.2.4` — one mail client for every account, every platform · [flomsi.nz](https://flomsi.nz)
+→ Flomsi `0.2.5` — your own folders & Gmail labels, Intel Macs · one mail client for every account · [flomsi.nz](https://flomsi.nz)
 <br/>
 → PalkaDPI: iOS `0.4.7`, Android `0.5.0` out
 <br/>
