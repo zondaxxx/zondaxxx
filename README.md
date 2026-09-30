@@ -22,12 +22,14 @@
 
 ### stack
 
-`swift` `kotlin` `rust` `dart` `typescript` `python` `c` `x86 asm` — `flutter` `xray` `docker` `nginx` `postgres`
+`swift` `kotlin` `rust` `dart` `typescript` `go` `python` `c` `x86 asm` — `flutter` `xray` `sing-box` `docker` `nginx` `postgres`
 
 <br/>
 
 ### now
 
+→ [Melsi](https://github.com/zondaxxx/Melsi) — cross-platform VPN client on sing-box `1.14`: Flutter UI, Go core, smart auto-select & game booster · WIP
+<br/>
 → Flomsi `0.2.5` — your own folders & Gmail labels, Intel Macs · one mail client for every account · [flomsi.nz](https://flomsi.nz)
 <br/>
 → PalkaDPI: iOS `0.4.7`, Android `0.5.0` out
